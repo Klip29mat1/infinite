@@ -1,0 +1,25 @@
+package fr.Klip29mat1.infinite;
+
+// libre de droit :)
+
+public class main {
+
+	public static void main(String[] args) throws InterruptedException {
+		// {  } > <
+		int number = 0;
+		while(true) {	
+	
+			System.out.println(number);
+			
+			number = number + 1;
+			
+			
+			Thread.sleep(200);  	 // vous pouvez changer ce qui est dans la paranthèse pour augmenter/réduire la vitesse du programme
+			//
+		}
+		
+		
+		
+			}
+	
+		}
