@@ -15,7 +15,7 @@ public class main {
 			
 			
 			Thread.sleep(200);  	 // vous pouvez changer ce qui est dans la paranthèse pour augmenter/réduire la vitesse du programme
-			//
+			
 		}
 		
 		
